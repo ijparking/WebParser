@@ -1,0 +1,113 @@
+<table class="sTableType01" summary="기업명, 사업자번호, 영문기업명, 대표자명, 기업형태, 설립일,결산월, 그룹, 종업원수, 업종명, 주요상품, 홈페이지, 주소, 전화,특이사항, 회사소개, 주요사업소개 등 기업프로필 정보제공" width="100%">
+										<caption>기업프로필정보</caption>
+										<colgroup>
+											<col width="25%">
+											<col width="*">
+											<col width="25%">
+											<col width="25%">
+										</colgroup>
+										<tbody>
+											<tr>
+												<th id="row01">기업명</th>
+												<td headers="row01">(주)비와이씨마트</td>
+												<th id="row02">사업자번호</th>
+												<td headers="row02">
+													
+														
+															
+															
+																113-81-30***
+
+															
+														
+													
+													
+												</td>
+											</tr>
+											<tr>
+												<th id="row03">영문기업명</th>
+												<td colspan="3" headers="row03">BYC MART CO., LTD.</td>
+											</tr>
+											<tr>
+												<th id="row04">대표자명</th>
+												<td headers="row04">한석범</td>
+												<th id="row05">기업형태</th>
+												<td headers="row05">외감</td>
+											</tr>
+											<tr>
+												<th id="row06">설립일</th>
+												<td headers="row06">
+													1993-01-07
+
+													
+												</td>
+												<th id="row07">결산월</th>
+												<td headers="row07">12월</td>
+											</tr>
+											<tr>
+												<th id="row08">그룹</th>
+												<td headers="row08">-</td>
+												<th id="row09">종업원수</th>
+												<td headers="row09">8</td>
+											</tr>
+											<tr>
+												<th id="row10">업종명</th>
+												<td headers="row10">
+													(G46415)
+													
+													내의 도매업
+													
+												</td>
+												<th id="row11">주요상품</th>
+												<td headers="row11">의류,잡화소매업</td>
+											</tr>
+											<tr>
+												<th id="row12">홈페이지</th>
+												<td colspan="3" headers="row12">
+													
+													<a href="http://www.shinhanmart.co.kr" target="_blank" title="홈페이지 이동(새창)">www.shinhanmart.co.kr</a>
+													
+												</td>
+											</tr>
+											<tr>
+												<th id="row13">주소</th>
+												<td colspan="3" headers="row13">(07448) 서울 영등포구 대림2동995-1번지</td>
+											</tr>
+											<tr>
+												<th id="row13">주소(도로명주소)</th>
+												<td colspan="3" headers="row13">(07448) 서울 영등포구 도림천로21길3 (대림동,(주)BYC본사)</td>
+											</tr>
+											<tr>
+												<th id="row14">전화</th>
+												<td headers="row14">
+													02-835-6180
+
+													
+												</td>
+												<th id="row15">팩스</th>
+												<td headers="row15">
+													02-840-****
+
+													
+												</td>
+											</tr>
+											<tr>
+												<th id="row16">특이사항</th>
+												<td colspan="3" headers="row16">-</td>
+											</tr>
+											<tr>
+												<th id="row17">회사소개</th>
+												<td colspan="3" headers="row17">-</td>
+											</tr>
+											<tr>
+												<th id="row18">주요사업(제품)소개</th>
+												<td colspan="3" headers="row18">-</td>
+											</tr>
+											<tr>
+												<th id="row19">홍보자료</th>
+												<td colspan="3" headers="row19">
+													<button type="button" class="btnreadPr" onclick="javascript:doDownload();"><span>홍보자료보기</span></button>
+												</td>
+											</tr>
+										</tbody>
+									</table>
